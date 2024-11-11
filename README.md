@@ -56,6 +56,7 @@ python main_test_swinir.py \
     --folder_gt testset/McM/HR \
     --folder_lq testset/McM/McM_poisson_20
 ```
+Note: Change the appropriate path depending on the images being tested
 
 ### Training
 **Note**: Training from scratch is not recommended as it is a complex and computationally expensive process. It is highly encouraged to use the provided pretrained models for most use cases. However, if you wish to train the model, follow the instructions below:
