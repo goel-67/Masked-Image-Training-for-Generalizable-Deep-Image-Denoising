@@ -1,4 +1,4 @@
-# Masked Image Training for Generalizable Deep Image Denoising
+# Robust Image Denoising with Masked Training for Diverse Noise
 
 ## Overview
 Image denoising is essential in computer vision for enhancing downstream applications like object recognition and medical diagnostics. Traditional models trained on synthetic noise (e.g., Gaussian) often fail to generalize to complex real-world noise. This project builds upon the masked image training framework by Chen et al., using a SwinIR transformer-based architecture with input and attention masking strategies to improve model robustness and generalization.
